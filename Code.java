@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class JavaExample {
-    static int fact(int num) {
+    static int factorial(int num) {
 	int factorial;
 
 	for(factorial = 1; num > 1; num--){
