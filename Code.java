@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class JavaExample {
     static int fact(int num) {
 	int factorial;
+	    int num=4;
 
 	for(factorial = 1; num > 1; num--){
 		factorial *= num;
